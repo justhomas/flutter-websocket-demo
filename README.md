@@ -1,16 +1,6 @@
-# django_channels
+# django_channels with flutter demo
+A simple application which connects with a django websocket to implement a realtime database.
 
-A new Flutter project.
+![Screenshot_1626347536](https://user-images.githubusercontent.com/29140428/125782814-5911859c-5cb2-4809-bf7f-83f18ebe3f47.png)
+![Screenshot_1626347508](https://user-images.githubusercontent.com/29140428/125782817-893d7c06-6c1f-490d-9f1c-c756b7d7201d.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
